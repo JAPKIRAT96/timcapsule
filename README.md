@@ -7,6 +7,12 @@ Time Capsule is a photo memory storage app which allows people to store their si
  - Adding a personalize messages.
  - Attaching Pics to memories.
 
+ ## Overview
+ <img src="./sc.png">
+
+## Demo Video
+https://youtu.be/LftMNSaEuhs
+
 ## Technologies
 
 Front-End
